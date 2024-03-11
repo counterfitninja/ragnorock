@@ -27,8 +27,8 @@ var events = [
 var mark = [
         
         // tribe bases
-        [31.7, 33.0, 'home', 'darkblue', 'Tribe base 1'],
-        [45.0, 70.0, 'home', 'darkblue', 'Tribe base 2'],
+        [30.3, 32.7, 'home', 'darkblue', 'Crystal Cave'],
+        [31.7,34.2 'home', 'darkblue', 'Oil Pumps'],
         [70.0, 50.0, 'home', 'darkblue', 'Tribe base 3']
         
       ];
