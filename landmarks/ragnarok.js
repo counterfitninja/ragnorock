@@ -16,14 +16,19 @@ var blueObel =  [18.1, 17.3, 'Blue obelisk'];
 var greenObel = [57.0, 38.1, 'Green obelisk'];
 var redObel =   [35.0, 85.7, 'Red obelisk'];
 
-   
+
+var events = [
+
+	      // events
+        [25.0, 40.0, 'The Event'],
+      ];
+      
       
 var mark = [
         
         // tribe bases
-        [50.0, 33.0, 'home', 'darkblue', 'Tribe base 1'],
-        [30.3, 32.7, 'home', 'darkblue', 'Crystal Cave entrace.'],
-        [31.7, 34.2, 'home', 'darkblue', 'Oil Pump'],
+        [31.7, 33.0, 'home', 'darkblue', 'Tribe base 1'],
+        [45.0, 70.0, 'home', 'darkblue', 'Tribe base 2'],
         [70.0, 50.0, 'home', 'darkblue', 'Tribe base 3']
         
       ];
