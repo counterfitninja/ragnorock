@@ -20,7 +20,7 @@ var redObel =   [35.0, 85.7, 'Red obelisk'];
 var events = [
 
 	      // events
-        [25.0, 40.0, 'The Event'],
+        
       ];
       
       
