@@ -30,7 +30,6 @@ var mark = [
         [30.3, 32.7, 'home', 'darkblue', 'Crystal Cave'],
         [31.7, 34.2, 'home', 'darkblue', 'Oil Pumps'],
         [27.2, 42.2, 'home', 'darkblue', 'Beavers']
-        
-        
+                
       ];
             
