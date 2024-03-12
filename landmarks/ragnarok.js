@@ -31,7 +31,8 @@ var mark = [
         [30.3, 32.7, 'home', 'darkblue', 'Crystal Cave'],
         [31.7, 34.2, 'home', 'darkblue', 'Oil Pumps'],
         [27.2, 42.2, 'home', 'darkblue', 'Beavers'],
-        [38.6, 44.2, 'home', 'darkblue', 'Sheas Hut']
+        [38.2, 44.1, 'home', 'darkblue', 'Sheas Hut in the valley'],
+        [52.6, 34.5, 'home', 'darkblue', 'First Outpost']
                 
       ];
             
